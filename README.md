@@ -1,2 +1,3 @@
 # MagicLeapApp
-Creating a Magic Leap Application 
+Creating a Magic Leap One Application 
+
